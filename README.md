@@ -25,7 +25,7 @@ bash
 
 #Copy code
 
-git clone https://github.com/Rathika02/mnist-autoencoder.git
+git clone https://github.com/rithika55/Auto-encoder-
 Navigate to the project directory:
 bash
 
